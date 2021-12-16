@@ -1,6 +1,6 @@
 - 👋 Hi, I’m EL AKKAL AYOUB
 - 👀 I’m interested in WEB DEVELOPEMENT 
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning PHP LARAVEL FRAMEWORK
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 06 20322939
 
