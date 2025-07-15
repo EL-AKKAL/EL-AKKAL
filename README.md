@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/EL-AKKAL" target="_blank">
+  <a href="https://ma.linkedin.com/in/ayoub-akkal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="akkalayoub3@gmail.com" target="_blank">
